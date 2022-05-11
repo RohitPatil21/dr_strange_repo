@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    width: 100vw;
+    height: 3rem;
+    box-shadow: 0px 0px 5px;
+    margin-bottom: 4rem;
+    background-color: #ece038d5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav > h2 {
+    letter-spacing: 1px;
+    color: rgb(117, 2, 2);
+    font-weight: 500;
+    font-style: italic;
+}
